@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b78d869317b143bebff00f8dbffc94ac/artifacts
+end_time: 1745084002378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b78d869317b143bebff00f8dbffc94ac
+run_name: delightful-shad-310
+run_uuid: b78d869317b143bebff00f8dbffc94ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745084002229
+status: 3
+tags: []
+user_id: dskum

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/08c8ee8ac2854e4e96a4290af6ed5935/artifacts
+end_time: 1745086304148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08c8ee8ac2854e4e96a4290af6ed5935
+run_name: bouncy-sow-795
+run_uuid: 08c8ee8ac2854e4e96a4290af6ed5935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745086303434
+status: 3
+tags: []
+user_id: dskum

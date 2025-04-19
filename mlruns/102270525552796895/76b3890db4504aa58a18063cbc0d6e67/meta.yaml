@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/102270525552796895/76b3890db4504aa58a18063cbc0d6e67/artifacts
+end_time: 1745086561187
+entry_point_name: ''
+experiment_id: '102270525552796895'
+lifecycle_stage: active
+run_id: 76b3890db4504aa58a18063cbc0d6e67
+run_name: fearless-fowl-834
+run_uuid: 76b3890db4504aa58a18063cbc0d6e67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745086560520
+status: 3
+tags: []
+user_id: dskum

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/102270525552796895/7526c74050384b82a032693f13c80c5a/artifacts
+end_time: 1745093608687
+entry_point_name: ''
+experiment_id: '102270525552796895'
+lifecycle_stage: active
+run_id: 7526c74050384b82a032693f13c80c5a
+run_name: delightful-swan-81
+run_uuid: 7526c74050384b82a032693f13c80c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745093598938
+status: 3
+tags: []
+user_id: dskum

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/102270525552796895/2b8c61a90c0a44268f5ecc6539d50b7e/artifacts
+end_time: 1745087178579
+entry_point_name: ''
+experiment_id: '102270525552796895'
+lifecycle_stage: active
+run_id: 2b8c61a90c0a44268f5ecc6539d50b7e
+run_name: abrasive-cat-347
+run_uuid: 2b8c61a90c0a44268f5ecc6539d50b7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745087177872
+status: 3
+tags: []
+user_id: dskum
